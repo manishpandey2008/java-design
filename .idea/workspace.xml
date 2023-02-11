@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fdf88d99-d7bf-40a4-a58d-56117c9d134c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decoratordesign/CarBaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decoratordesign/DecoratorDesignMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decoratordesign/SuvCarBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decoratordesign/featurs/IncludeAirBag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decoratordesign/featurs/IncludeSelfDriving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decoratordesign/featurs/IncudeAc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observerdesign/EmailNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observerdesign/MobileNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observerdesign/NotificationClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observerdesign/ObservableInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observerdesign/ObserverDesignPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observerdesign/ObserverInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/solid/SolidD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/solid/SolidI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/solid/SolidL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/solid/SolidO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/solid/SolidS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategydesign/AMSHospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategydesign/Dispensary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategydesign/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategydesign/MuskanHospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategydesign/PMCHHospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategydesign/StrategyDesignMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategydesign/operation/HighLevelOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategydesign/operation/MediumLevelOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategydesign/operation/NormalOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategydesign/operation/OperationInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LWrjSNMImiOyuSDoR1YSc8Fo9W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.DecoratorDesignMain">
+    <configuration name="DecoratorDesignMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decoratordesign.DecoratorDesignMain" />
+      <module name="java-desoign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="decoratordesign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverDesignPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="observerdesign.ObserverDesignPattern" />
+      <module name="java-desoign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="observerdesign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolidO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solid.SolidO" />
+      <module name="java-desoign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolidS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solid.SolidS" />
+      <module name="java-desoign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyDesignMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strategydesign.StrategyDesignMain" />
+      <module name="java-desoign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strategydesign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DecoratorDesignMain" />
+        <item itemvalue="Application.ObserverDesignPattern" />
+        <item itemvalue="Application.StrategyDesignMain" />
+        <item itemvalue="Application.SolidO" />
+        <item itemvalue="Application.SolidS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdf88d99-d7bf-40a4-a58d-56117c9d134c" name="Changes" comment="" />
+      <created>1675997817947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675997817947</updated>
+    </task>
+    <servers />
+  </component>
+</project>
